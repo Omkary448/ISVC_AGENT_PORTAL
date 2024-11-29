@@ -10,7 +10,7 @@ public class TestRunnerParallelFeatureFile {
 	
 	
 	
-	@CucumberOptions(features = "C:\\Users\\oyadavx\\git\\Intel_ISVC_R4C\\Intel_ISVC_R4C\\src\\test\\java\\Features\\StockRotation_CaseCreation.feature",
+	@CucumberOptions(features = "C:\\Users\\oyadavx\\git\\Intel_ISVC_R4C\\Intel_ISVC_R4C\\src\\test\\java\\FeaturesWeb\\Web_TechnicalExchange_CaseCreation.feature",
 
 			glue = "StepDefination",
 		   //tags = "@Sanity111",
