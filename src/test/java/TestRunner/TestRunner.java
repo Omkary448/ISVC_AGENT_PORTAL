@@ -8,7 +8,7 @@ public class TestRunner {
 	@CucumberOptions(features = "C:\\Users\\oyadavx\\git\\Intel_ISVC_R4C\\Intel_ISVC_R4C\\src\\test\\java\\FeaturesWeb\\Web_Technical_SaveForLater.feature",
 
 			glue = "StepDefination",
-		    tags = "@TestCaseWTSFLNo1",
+		    //   tags = "@TestCaseWTSFLNo1",
 			monochrome = true, 
 			dryRun = false, 
 			plugin = { "pretty",
